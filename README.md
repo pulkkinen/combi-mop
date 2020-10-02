@@ -1,9 +1,9 @@
-# combi-mop
-Multiobjective optimization identifies cancer-selective combination therapies
+# combimop
+# Multiobjective optimization identifies cancer-selective combination therapies
 Otto I. Pulkkinen, Prson Gautam, Ville Mustonen, and Tero Aittokallio
 
-Supplementary notebook
-Multiobjective optimization for cell line MALME-3M using the NCI ALMANAC
+## Supplementary notebook
+### Multiobjective optimization for cell line MALME-3M using the NCI ALMANAC
 
 NCI ALMANAC: [Holbeck SL, et al. (2017) The National Cancer Institute ALMANAC: A Comprehensive Screening Resource for the Detection of Anticancer Drug Pairs with Enhanced Therapeutic Activity. Cancer Res. 77(13):3564–3576.]
 
