@@ -2,11 +2,11 @@
 # Multiobjective optimization identifies cancer-selective combination therapies
 Otto I. Pulkkinen, Prson Gautam, Ville Mustonen, and Tero Aittokallio
 
-# The repopsitory contains 
+# The repository contains 
 ## 1. In-house data (FIMM_combinationData_PrsonGautam-20201004T071304Z-001.zip)
 
 ## 2. Supplementary notebook
-### Multiobjective optimization for cell line MALME-3M using the NCI ALMANAC
+### Multiobjective optimization for cell line MALME-3M using the NCI ALMANAC (MOP_MALME-3M.ipynb)
 
 
 This Jupyter notebook performs biobjective optimization of therapeutic and nonselective effects of drug  combinations based on the NCI ALMANAC data.
